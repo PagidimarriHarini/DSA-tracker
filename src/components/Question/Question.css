@@ -1,0 +1,22 @@
+pre {
+    background-color: rgb(203, 203, 203);
+    padding: 10px;
+}
+
+.difficulty {
+    color: green;
+}
+
+.scrollable {
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    height: 90vh;
+}
+
+.success {
+    color: green;
+}
+
+.failed {
+    color: red;
+}

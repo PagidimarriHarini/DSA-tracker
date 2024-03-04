@@ -1,0 +1,26 @@
+/* Header.css */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.2rem;
+    margin-right: 15px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-outline-primary {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}

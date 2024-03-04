@@ -1,0 +1,38 @@
+/* App.css */
+
+.grid-container {
+  /*background:linear-gradient(45deg, blueviolet, lightgreen);*/
+  /* background: url('C:\Users\meena\OneDrive\Desktop\ALL\Login\pink.jpg') center/cover; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 60px;
+  padding: 30px;
+}
+
+.grid-cell {
+  border: 2px solid #f52199;
+  padding: 30px;
+  text-align: center;
+}
+
+button {
+  background-color: #170a14;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* InformationPage.css */
+
+.InformationPage {
+  text-align: center;
+  padding: 30px;
+}
+
+/* Add more styles for your form or input fields as needed */
